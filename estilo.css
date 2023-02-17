@@ -1,0 +1,81 @@
+
+body {
+    background: url("imagen/fondo.jpg") no-repeat center center fixed;
+    background-size: cover;
+      
+    
+  }
+
+header{
+    
+    position: fixed;
+     background-color: rgb(39, 39, 218);
+    text-align: center;
+    border: 3px solid black;
+    font-family: 'Prosto One', cursive;;
+    font-weight: 900;
+    color: aliceblue;
+    
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-shadow: 2px 2px 5px black;
+
+    
+}  
+
+
+
+h3{
+    color: blanchedalmond;
+    text-shadow: 2px 2px 5px black;
+}
+
+h5{
+    font-family: 'Prosto One', cursive;
+
+    text-shadow: 2px 2px 5px rgb(66, 142, 255);
+       
+}
+
+h2{
+
+    color: blanchedalmond;
+    text-shadow: 2px 2px 5px black;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+
+}
+
+ul{
+  font-family: 'Prosto One', cursive;
+  text-shadow: 2px 2px 5px rgb(66, 142, 255);
+
+}
+
+
+
+p{
+   font-family: 'Prosto One', cursive;
+
+
+}
+
+#tarjetas{
+
+    margin-top: 100px ;
+}
+
+
+
+#carouselExampleIndicators{
+    max-width: 500px;
+    margin: 0 auto; 
+
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+
+}
+
+
